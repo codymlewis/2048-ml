@@ -4,7 +4,7 @@ Machine learning algorithms attempting to solve 2048
 
 ## Requirements
 
-- python3.8+
+- python 3.6+
 
 ## Installation
 
